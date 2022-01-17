@@ -1,0 +1,1373 @@
+fileFormatVersion: 2
+guid: a59800c989cdb064ca0cacb234f7800f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gCSWater_0
+    21300002: gCSWater_1
+    21300004: gCSWater_2
+    21300006: gCSWater_3
+    21300008: gCSWater_4
+    21300010: gCSWater_5
+    21300012: gCSWater_6
+    21300014: gCSWater_7
+    21300016: gCSWater_8
+    21300018: gCSWater_9
+    21300020: gCSWater_10
+    21300022: gCSWater_11
+    21300024: gCSWater_12
+    21300026: gCSWater_13
+    21300028: gCSWater_14
+    21300030: gCSWater_15
+    21300032: gCSWater_16
+    21300034: gCSWater_17
+    21300036: gCSWater_18
+    21300038: gCSWater_19
+    21300040: gCSWater_20
+    21300042: gCSWater_21
+    21300044: gCSWater_22
+    21300046: gCSWater_23
+    21300048: gCSWater_24
+    21300050: gCSWater_25
+    21300052: gCSWater_26
+    21300054: gCSWater_27
+    21300056: gCSWater_28
+    21300058: gCSWater_29
+    21300060: gCSWater_30
+    21300062: gCSWater_31
+    21300064: gCSWater_32
+    21300066: gCSWater_33
+    21300068: gCSWater_34
+    21300070: gCSWater_35
+    21300072: gCSWater_36
+    21300074: gCSWater_37
+    21300076: gCSWater_38
+    21300078: gCSWater_39
+    21300080: gCSWater_40
+    21300082: gCSWater_41
+    21300084: gCSWater_42
+    21300086: gCSWater_43
+    21300088: gCSWater_44
+    21300090: gCSWater_45
+    21300092: gCSWater_46
+    21300094: gCSWater_47
+    21300096: gCSWater_48
+    21300098: gCSWater_49
+    21300100: gCSWater_50
+    21300102: gCSWater_51
+    21300104: gCSWater_52
+    21300106: gCSWater_53
+    21300108: gCSWater_54
+    21300110: gCSWater_55
+    21300112: gCSWater_56
+    21300114: gCSWater_57
+    21300116: gCSWater_58
+    21300118: gCSWater_59
+    21300120: gCSWater_60
+    21300122: gCSWater_61
+    21300124: gCSWater_62
+    21300126: gCSWater_63
+    21300128: gCSWater_64
+    21300130: gCSWater_65
+    21300132: gCSWater_66
+    21300134: gCSWater_67
+    21300136: gCSWater_68
+    21300138: gCSWater_69
+    21300140: gCSWater_70
+    21300142: gCSWater_71
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gCSWater_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 316
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f141ae2e91b76f4483bb0330438bdbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 316
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1201239223e144973465f29af82b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 316
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649608c26087e2499d67b92035ef7e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 316
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d85aa1557cf6e46b08c57936fef15b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: -0.84071296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88582aecb5e941845ad4e0e4531906a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 340
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.48043016, y: -0.8345529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79ba446f6db8a64ab54851a837539b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 340
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99aca8a3a841b9479f570eb7fddd27e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 317
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00785930c0029274caecbda82fa5599d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 317
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d2727dd9e590459988c04ff634d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 317
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b06e622eb0a924b8764dd387e5337d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 317
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff479f559489e54eb5b3c4e28fcd4d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 317
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c02e47857d9ea449482963dc7bebe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 344
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dea5834744e5a46954c8cacfaf178d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 317
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7efb57291dc1408caedf7a9301ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 250
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9554acbe0acf0524282e38ba2d69c6b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 250
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ace2d5b7b2d94c9f4b44b91c954fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 251
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ab882ddaf4994b8981a7ed3495a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 249
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788085a8b6742bf4784de3f68081ec92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 247
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6528ff8b693780d449677a5cf9e34530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 247
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f918fa479eca5fc41b04c9745f621f55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 248
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75debe4f393ca2249987618dd820cb8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_22
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 250
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bd668df71caca46a49e00530e213f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 270
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.3877143, y: -0.9161261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bc8110d324daf49a6a1437c6cd4854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 270
+        width: 39
+        height: 22
+      alignment: 9
+      pivot: {x: 0.3401419, y: -1.0338794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5d57c5db75c184abca91438ccae00e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 247
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887522215b81dec48a216576d3186ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 246
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53b6b3368497cf4f8b28efa2cd0fb73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 246
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade048e7fbd6e7a4ab64168a7fadeb85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 195
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef3d12dae51d7048b19c6ddbf554bd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 195
+        width: 15
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd3d1fc5f7c2144adfd19ab597f840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 195
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd7f2a890e542943a95a7528d0b47f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 195
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917b624c653c2ab409a6a2061e5a2d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea227ed4da5a6489ed3a9f1873dfe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 195
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d28532f4cc2034b8484a83dd8fc7d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_36
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 195
+        width: 37
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95d5b441524384f9898afb85b12f7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_38
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 195
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2770dbfa0e36424ba07b0f7e8c3f63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 178
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8c73770a1120418bb9b4697a75fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 173
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41080d77c8fbd74f8682e75f3ba0419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820e0beb4cc7fe4e8eb0e0017ec8a91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 114
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c8d7de305f0f1478fb148c21b6bab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_43
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 114
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e8a83fa2dfff4395ad23f14628214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 114
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f45847d2ef92b48b2a08a8c4f4291a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_45
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 138
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433021a7c0c7cec4cb38dd28926319cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_46
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 114
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f653bc2486021d4d85ae78950250eb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 114
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ccb7faed775534e8b64384689bf0ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4529bbe05a80c2498b0c4ea6beaf273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 114
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c977618a140124468639933c3ec6f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_52
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 114
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b444aac4d0964080d3a5de829bf40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_53
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 114
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e6dabcc0c1d44d8da81eb99d5c84e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_54
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 57
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fef9c4c043daf4b8165ce0de056c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 57
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc0fbd31fb957c4cbb2933c88491869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 57
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f569cc101cc442f47b83335b1a8af7d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 57
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d00732cbadf75b44b6a4b31ea7fde5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 57
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058de62cb859ee940a345ef8fb7226df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 57
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b68e0c09ecda43963e1279e3e9b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_60
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 57
+        width: 33
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: -1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dfc8f4d2afeaf4f9714baedc694bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_62
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 57
+        width: 21
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: -1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74330bc1327c519499816cac770d8248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_63
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 57
+        width: 29
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: -1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7736cfdce2ad346af2b5a75c6f2987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_64
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 57
+        width: 30
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2c7e9e6240f34483a82683592760b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSWater_13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 344
+        width: 34
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c336c7ad38daff645b893c3b2a6a4797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 77051b19ed615e249bd77864123f5c6e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

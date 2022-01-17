@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 100bf6c8a96d5004ba10dbc7c9343a50
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gCSDown_0
+    21300002: gCSDown_1
+    21300004: gCSDown_2
+    21300006: gCSDown_3
+    21300008: gCSDown_4
+    21300010: gCSDown_5
+    21300012: gCSDown_6
+    21300014: gCSDown_7
+    21300016: gCSDown_8
+    21300018: gCSDown_9
+    21300020: gCSDown_10
+    21300022: gCSDown_11
+    21300024: gCSDown_12
+    21300026: gCSDown_13
+    21300028: gCSDown_14
+    21300030: gCSDown_15
+    21300032: gCSDown_16
+    21300034: gCSDown_17
+    21300036: gCSDown_18
+    21300038: gCSDown_19
+    21300040: gCSDown_20
+    21300042: gCSDown_21
+    21300044: gCSDown_22
+    21300046: gCSDown_23
+    21300048: gCSDown_24
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gCSDown_0
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 101
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ae006f3f237a4a8703230d5824540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 100
+        width: 50
+        height: 24
+      alignment: 9
+      pivot: {x: 0.51514465, y: -0.6473274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d9c3d552921e04f8d85b7994c44c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 41
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ffcf630e3a4fe48ab388798ee902fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 191
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb0011e97d5a324885fcb355b24a0a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440f258ac5276034eb32a1b250074036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 314
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13cbfe5e7e08ac4aad3d9e8c8665475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 313
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0028f9e5622947a4480dc87b5abedb0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 314
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b1c30d3800db458cd9924f2725f43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 313
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497342f08646ae849a71145b13588121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 313
+        width: 21
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb95f2c590fa774f84a46382aa765dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 313
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0cbccf4574b664483a66596202f23b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 311
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d381a7f997fe40489551e681bb75642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 311
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab220bea6e5064696c2ca2818ebee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 311
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f130557687b898c4d84a11097a316a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 313
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d77cd679c39784bbd03fb550e33494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 272
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: -0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a2283dfc590c4f80a41647bf5be3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 272
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5000002, y: -1.0392706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93203ab8d7708f4196a20c5038f26bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 272
+        width: 32
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -1.0281116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3af90ca6b2e484d8bdc74f1ae58fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: -0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0ef435681ea1f4f8cd456802157f9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 272
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: -0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6aaa69ef010074d89faf826e442194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 272
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.49179527, y: -0.9821889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460676a993945f446ae70d35421ccc10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 272
+        width: 41
+        height: 23
+      alignment: 9
+      pivot: {x: 0.49319607, y: -1.1319374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2e6270244d2c408e31be9423a6f61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 272
+        width: 36
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: -1.1655675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa54e56f57fcab45a53bb646c61645d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 272
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5146838, y: -1.0778618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa28f8e617a4a64fa0f3a3689dbe51d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gCSDown_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 272
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: -0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fb6c80ec3b7443a16cd814b8da2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3fff72ba63fb2c648b1256ebed54bd2f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

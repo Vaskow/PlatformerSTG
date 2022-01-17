@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: 99dd84b972f639649a99d02b92a59f49
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nes-sprtie-png-3_0
+    21300002: nes-sprtie-png-3_1
+    21300004: nes-sprtie-png-3_2
+    21300006: nes-sprtie-png-3_3
+    21300008: nes-sprtie-png-3_4
+    21300010: nes-sprtie-png-3_5
+    21300012: nes-sprtie-png-3_6
+    21300014: nes-sprtie-png-3_7
+    21300016: nes-sprtie-png-3_8
+    21300018: nes-sprtie-png-3_9
+    21300020: nes-sprtie-png-3_10
+    21300022: nes-sprtie-png-3_11
+    21300024: nes-sprtie-png-3_12
+    21300026: nes-sprtie-png-3_13
+    21300028: nes-sprtie-png-3_14
+    21300030: nes-sprtie-png-3_15
+    21300032: nes-sprtie-png-3_16
+    21300034: nes-sprtie-png-3_17
+    21300036: nes-sprtie-png-3_18
+    21300038: nes-sprtie-png-3_19
+    21300040: nes-sprtie-png-3_20
+    21300042: nes-sprtie-png-3_21
+    21300044: nes-sprtie-png-3_22
+    21300046: nes-sprtie-png-3_23
+    21300048: nes-sprtie-png-3_24
+    21300050: nes-sprtie-png-3_25
+    21300052: nes-sprtie-png-3_26
+    21300054: nes-sprtie-png-3_27
+    21300056: nes-sprtie-png-3_28
+    21300058: nes-sprtie-png-3_29
+    21300060: nes-sprtie-png-3_30
+    21300062: nes-sprtie-png-3_31
+    21300064: nes-sprtie-png-3_32
+    21300066: nes-sprtie-png-3_33
+    21300068: nes-sprtie-png-3_34
+    21300070: nes-sprtie-png-3_35
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ea62b9565b2341b5c341693e8b9c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38e213bf893df4c9ef82b0eff382eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec01c4099c1e104ca68d44b2f4e531d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd85a6f750319134cbddb2fdc1f90422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a0f71483f0b4488a1a12ea06c2ec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b5356790816a4439ef6e865a59da87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4adeed245490514b9897b14ff6cc6ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43155f48b0e98b64f8015efa708b6660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522e59f2ed5cfcc48b430e4a26ae3b44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033bca25b599604288d6778c4f7a0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 569
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7301081, y: 0.5369816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706f12908d805674ea23a599ffe5e9ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 569
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7301081, y: 0.5041084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf863ca05c3ae0f4281708b49192a110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 569
+        width: 18
+        height: 39
+      alignment: 9
+      pivot: {x: 0.60922456, y: 0.4266952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00b3896da684a6468600dfd0402ecc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 569
+        width: 18
+        height: 38
+      alignment: 9
+      pivot: {x: 0.64991844, y: 0.45002344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa6af0992798914a96f9042a3287aa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 569
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.68627805, y: 0.5296906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8204065e080da4cb2f08e30a0534dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 9
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e95b4c0ef580914baa7f523c54c3d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77843020c74c887459e8628780823805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8fa7d44a52c3f42865882df5f425a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 248
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c8124a3e22794585a90a436e78ca8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 514
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: 0.33323252, y: 0.5188129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b936490f1ea042a495f3e25a30c43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49961192e27ac4d93a97943e8dbba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc428dedaf2c624995fb365694520e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785bece196079eb469228242fc7c0fc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b625f27a4bb3a9479041f57993083d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 292
+        width: 25
+        height: 17
+      alignment: 9
+      pivot: {x: 0.34, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a0381de0dabd49bf980b4a46c89c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5227f64785d152c46b8eecdf3a09d66c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 341
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49682498, y: 0.8001931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac1d36ef5e7b8649a8d84e96875404e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 363
+        width: 32
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f188a704698e91458e28bf3798043a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 354
+        width: 32
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5095253, y: 1.8885871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6d471f67c9607419acb2b66534bf86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ff4d5ccbb73e4286e1c4c7ad7ab50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46cc31b2c4c9c43a1fb6a5b85317f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50da01d7e441eb4cba688216617a12a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fff7a96c0015cc45b5d0ec5c5d03560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 114
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ec289a4f900a49ab4e9c1baf22b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13562725ff373164891e7240cff6b59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-3_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 104
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e2ea5c25a50e40ba1c6079dde50ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 408493ab99b7f9e46bbb7a6a2c50b71d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

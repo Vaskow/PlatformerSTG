@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: aebf4be3d4dd23842bd9483490cb1d54
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GEN_DFH_reese_0
+    21300002: GEN_DFH_reese_1
+    21300004: GEN_DFH_reese_2
+    21300006: GEN_DFH_reese_3
+    21300008: GEN_DFH_reese_4
+    21300010: GEN_DFH_reese_5
+    21300012: GEN_DFH_reese_6
+    21300014: GEN_DFH_reese_7
+    21300016: GEN_DFH_reese_8
+    21300018: GEN_DFH_reese_9
+    21300020: GEN_DFH_reese_10
+    21300022: GEN_DFH_reese_11
+    21300024: GEN_DFH_reese_12
+    21300026: GEN_DFH_reese_13
+    21300028: GEN_DFH_reese_14
+    21300030: GEN_DFH_reese_15
+    21300032: GEN_DFH_reese_16
+    21300034: GEN_DFH_reese_17
+    21300036: GEN_DFH_reese_18
+    21300038: GEN_DFH_reese_19
+    21300040: GEN_DFH_reese_20
+    21300042: GEN_DFH_reese_21
+    21300044: GEN_DFH_reese_22
+    21300046: GEN_DFH_reese_23
+    21300048: GEN_DFH_reese_24
+    21300050: GEN_DFH_reese_25
+    21300052: GEN_DFH_reese_26
+    21300054: GEN_DFH_reese_27
+    21300056: GEN_DFH_reese_28
+    21300058: GEN_DFH_reese_29
+    21300060: GEN_DFH_reese_30
+    21300062: GEN_DFH_reese_31
+    21300064: GEN_DFH_reese_32
+    21300066: GEN_DFH_reese_33
+    21300068: GEN_DFH_reese_34
+    21300070: GEN_DFH_reese_35
+    21300072: GEN_DFH_reese_36
+    21300074: GEN_DFH_reese_37
+    21300076: GEN_DFH_reese_38
+    21300078: GEN_DFH_reese_39
+    21300080: GEN_DFH_reese_40
+    21300082: GEN_DFH_reese_41
+    21300084: GEN_DFH_reese_42
+    21300086: GEN_DFH_reese_43
+    21300088: GEN_DFH_reese_44
+    21300090: GEN_DFH_reese_45
+    21300092: GEN_DFH_reese_46
+    21300094: GEN_DFH_reese_47
+    21300096: GEN_DFH_reese_48
+    21300098: GEN_DFH_reese_49
+    21300100: GEN_DFH_reese_50
+    21300102: GEN_DFH_reese_51
+    21300104: GEN_DFH_reese_52
+    21300106: GEN_DFH_reese_53
+    21300108: GEN_DFH_reese_54
+    21300110: GEN_DFH_reese_55
+    21300112: GEN_DFH_reese_56
+    21300114: GEN_DFH_reese_57
+    21300116: GEN_DFH_reese_58
+    21300118: GEN_DFH_reese_59
+    21300120: GEN_DFH_reese_60
+    21300122: GEN_DFH_reese_61
+    21300124: GEN_DFH_reese_62
+    21300126: GEN_DFH_reese_63
+    21300128: GEN_DFH_reese_64
+    21300130: GEN_DFH_reese_65
+    21300132: GEN_DFH_reese_66
+    21300134: GEN_DFH_reese_67
+    21300136: GEN_DFH_reese_68
+    21300138: GEN_DFH_reese_69
+    21300140: GEN_DFH_reese_70
+    21300142: GEN_DFH_reese_71
+    21300144: GEN_DFH_reese_72
+    21300146: GEN_DFH_reese_73
+    21300148: GEN_DFH_reese_74
+    21300150: GEN_DFH_reese_75
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GEN_DFH_reese_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 688
+        width: 85
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d97b3e8dca14644bb78c8e5b112e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 689
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fbf310c76e61a45a570e28e94f4b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 690
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2766b656568c64993ce285f46611b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 689
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e07fed2cd9b0ba4db4507b17f912fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 689
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d03817656217449a0588a2cdd73d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 687
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1e5c61af3755d428c2d3006bb692f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 630
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f997665d421c24e8cc162378f35cfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 634
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892df988793b4f0458087529acd2d06e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 631
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce697eef43cae3a47b5dda761f6fa05c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 631
+        width: 86
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb5036f0ccbb346a6f220f44306f9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 630
+        width: 86
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c399f4da0be6a4b99d1f9025680e42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 627
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f997aab6c9325c4b9f8631a6b8ca193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 576
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f9f6dea5c0f0348bb1afe374ab8392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 579
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8925c85d29b0ef846ae7d5e23904d107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 580
+        width: 86
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaba34ad97461c4795a5c922eb3a9f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 581
+        width: 85
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc61901f8470434f8ce93e283941f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 521
+        width: 62
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543d59e7575e33142a57377f5fd0e3d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 522
+        width: 58
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a189da2365823641ab39088501ca36e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_18
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 521
+        width: 54
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef057a7bef613df4b89fe9dea0a7b863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 521
+        width: 66
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6274f39cea3164badeef18494fd19d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 520
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aea7eda7edd7f244a34ef9b13af2330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 518
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad30a25bf5f9843a81da29313f8a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 515
+        width: 63
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1b121a4551eaf4081a4a4830bdbc13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 513
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec57507d97f3e84d80fad09ac3d2249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 457
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f59d37cb1d7bc409d31a0020bdee5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 456
+        width: 64
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25df275d128ccfc4da9eb90fac1c461b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 455
+        width: 65
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1432165e4623f9d49adec12ec3b2e73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 454
+        width: 64
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2f0f6744ffb943b91792b564027e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 452
+        width: 70
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab2403a903ba73489076ba9189c50a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 75
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba17fb5bcd4939846b5a98f5a592f22e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 450
+        width: 88
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cefc6a5354525a49a4d8e01f783cebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 418
+        width: 57
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1965fa289e52334fa0d1d0ae6819ed1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 397
+        width: 85
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35415ba53bd26489e35b3dadb358fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 413
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dbe6c0512eda347a5660c0d81d2fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 395
+        width: 85
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f1321922cd40a4296380519f1d5ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 394
+        width: 85
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99de1494080f8149a77a552d241bda3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 395
+        width: 79
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8038c6a314ef4fbec447c4a861729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 395
+        width: 77
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21d77287bfe6e843b73ff63c1b553af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 355
+        width: 121
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06739cadee9c0264388d6dd249817356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_39
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 355
+        width: 121
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f680085cbc69b7469b43329e1583435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 356
+        width: 121
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22fbb58300becd43badb5cae99aa15a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_41
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 339
+        width: 57
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22fefd3383d87a4f88d869fbb879c10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 304
+        width: 80
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544d7df9413f99245a0462a9ea4b5f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 301
+        width: 82
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f076e31c3d644043aba5d6e26dca5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 302
+        width: 83
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8586b2c6df6247d4ab1b16c8228511f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 301
+        width: 79
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef1c6062fb2544da4a1f591c671094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_46
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 298
+        width: 80
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7e8c4ce6c0229439d431ae42b2f15d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 295
+        width: 78
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1e2713e8cddfa4abf2d616b46fc806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 85
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eb99f873bf8f6488c911351ebcd5b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 233
+        width: 83
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c680cde0d1196409d8c218c2c090fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 232
+        width: 87
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ccf88ce1c9d449aa6ccc96fe97b21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 231
+        width: 88
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd788822550ea4f81c98eee5c16100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_52
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 229
+        width: 84
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74d6450e0800624b82ee5fc01a17dc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_53
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 229
+        width: 85
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f2f61a08b29914fabdcfddb4311a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 69
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db09abc31d152c44a9a277aae2c67f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 67
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2eff841293fb04d9b059c3e08908a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 168
+        width: 71
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f4b6a4e3e241459be46cbee2a078c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 168
+        width: 72
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d16a2473fb3bd408f6825c642177e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 167
+        width: 68
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c04eb7bac9210946ae089f932c29492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 167
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9933883d9ea6f234096823a1226d7edd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 171
+        width: 69
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b65cc255404e94dbe91a8ada06bdfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 34
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6420fe086c8cb4b9bb187ca423858a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 67
+        width: 32
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f300baeb624735d4c871f981d6c25276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 67
+        width: 32
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369a318da0564944a57de79f0aa4473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 71
+        width: 87
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd0a9bf5a8b92c4e9b1ca56d118df6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 71
+        width: 62
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98112f0e24516cf42bd29ed6018884f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 62
+        width: 69
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545fb1d9deac11b448f42c4405700a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_67
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 102
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda767c121280f741842f5103a4ae2d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_68
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 101
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe40383f26510d147ba9ce98b0bd9928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_69
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 100
+        width: 59
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ec6bf13e72ee489a3cbcdba9e0c7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_70
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 52
+        width: 54
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8293d169cde9a4ea3784758fa3eff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68de42efa498ca47b4de64a1d54766f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd68ffee2a5be3246acedfa6afe79ad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8
+        width: 76
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63015b48f0562047aec879e281f9530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 10
+        width: 92
+        height: 28
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c87484b7f4089843bb4b5b9d2ecf02e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GEN_DFH_reese_75
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 231
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d428b878ab117604aaf0e3f220ad4378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6ad7661e12ecd094d80ed34f81bc32de
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

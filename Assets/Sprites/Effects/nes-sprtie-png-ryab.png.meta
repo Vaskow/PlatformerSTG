@@ -1,0 +1,4552 @@
+fileFormatVersion: 2
+guid: e9c2481180da41f408362e9e2693d46a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nes-sprtie-png-ryab_0
+    21300002: nes-sprtie-png-ryab_1
+    21300004: nes-sprtie-png-ryab_2
+    21300006: nes-sprtie-png-ryab_3
+    21300008: nes-sprtie-png-ryab_4
+    21300010: nes-sprtie-png-ryab_5
+    21300012: nes-sprtie-png-ryab_6
+    21300014: nes-sprtie-png-ryab_7
+    21300016: nes-sprtie-png-ryab_8
+    21300018: nes-sprtie-png-ryab_9
+    21300020: nes-sprtie-png-ryab_10
+    21300022: nes-sprtie-png-ryab_11
+    21300024: nes-sprtie-png-ryab_12
+    21300026: nes-sprtie-png-ryab_13
+    21300028: nes-sprtie-png-ryab_14
+    21300030: nes-sprtie-png-ryab_15
+    21300032: nes-sprtie-png-ryab_16
+    21300034: nes-sprtie-png-ryab_17
+    21300036: nes-sprtie-png-ryab_18
+    21300038: nes-sprtie-png-ryab_19
+    21300040: nes-sprtie-png-ryab_20
+    21300042: nes-sprtie-png-ryab_21
+    21300044: nes-sprtie-png-ryab_22
+    21300046: nes-sprtie-png-ryab_23
+    21300048: nes-sprtie-png-ryab_24
+    21300050: nes-sprtie-png-ryab_25
+    21300052: nes-sprtie-png-ryab_26
+    21300054: nes-sprtie-png-ryab_27
+    21300056: nes-sprtie-png-ryab_28
+    21300058: nes-sprtie-png-ryab_29
+    21300060: nes-sprtie-png-ryab_30
+    21300062: nes-sprtie-png-ryab_31
+    21300064: nes-sprtie-png-ryab_32
+    21300066: nes-sprtie-png-ryab_33
+    21300068: nes-sprtie-png-ryab_34
+    21300070: nes-sprtie-png-ryab_35
+    21300072: nes-sprtie-png-ryab_36
+    21300074: nes-sprtie-png-ryab_37
+    21300076: nes-sprtie-png-ryab_38
+    21300078: nes-sprtie-png-ryab_39
+    21300080: nes-sprtie-png-ryab_40
+    21300082: nes-sprtie-png-ryab_41
+    21300084: nes-sprtie-png-ryab_42
+    21300086: nes-sprtie-png-ryab_43
+    21300088: nes-sprtie-png-ryab_44
+    21300090: nes-sprtie-png-ryab_45
+    21300092: nes-sprtie-png-ryab_46
+    21300094: nes-sprtie-png-ryab_47
+    21300096: nes-sprtie-png-ryab_48
+    21300098: nes-sprtie-png-ryab_49
+    21300100: nes-sprtie-png-ryab_50
+    21300102: nes-sprtie-png-ryab_51
+    21300104: nes-sprtie-png-ryab_52
+    21300106: nes-sprtie-png-ryab_53
+    21300108: nes-sprtie-png-ryab_54
+    21300110: nes-sprtie-png-ryab_55
+    21300112: nes-sprtie-png-ryab_56
+    21300114: nes-sprtie-png-ryab_57
+    21300116: nes-sprtie-png-ryab_58
+    21300118: nes-sprtie-png-ryab_59
+    21300120: nes-sprtie-png-ryab_60
+    21300122: nes-sprtie-png-ryab_61
+    21300124: nes-sprtie-png-ryab_62
+    21300126: nes-sprtie-png-ryab_63
+    21300128: nes-sprtie-png-ryab_64
+    21300130: nes-sprtie-png-ryab_65
+    21300132: nes-sprtie-png-ryab_66
+    21300134: nes-sprtie-png-ryab_67
+    21300136: nes-sprtie-png-ryab_68
+    21300138: nes-sprtie-png-ryab_69
+    21300140: nes-sprtie-png-ryab_70
+    21300142: nes-sprtie-png-ryab_71
+    21300144: nes-sprtie-png-ryab_72
+    21300146: nes-sprtie-png-ryab_73
+    21300148: nes-sprtie-png-ryab_74
+    21300150: nes-sprtie-png-ryab_75
+    21300152: nes-sprtie-png-ryab_76
+    21300154: nes-sprtie-png-ryab_77
+    21300156: nes-sprtie-png-ryab_78
+    21300158: nes-sprtie-png-ryab_79
+    21300160: nes-sprtie-png-ryab_80
+    21300162: nes-sprtie-png-ryab_81
+    21300164: nes-sprtie-png-ryab_82
+    21300166: nes-sprtie-png-ryab_83
+    21300168: nes-sprtie-png-ryab_84
+    21300170: nes-sprtie-png-ryab_85
+    21300172: nes-sprtie-png-ryab_86
+    21300174: nes-sprtie-png-ryab_87
+    21300176: nes-sprtie-png-ryab_88
+    21300178: nes-sprtie-png-ryab_89
+    21300180: nes-sprtie-png-ryab_90
+    21300182: nes-sprtie-png-ryab_91
+    21300184: nes-sprtie-png-ryab_92
+    21300186: nes-sprtie-png-ryab_93
+    21300188: nes-sprtie-png-ryab_94
+    21300190: nes-sprtie-png-ryab_95
+    21300192: nes-sprtie-png-ryab_96
+    21300194: nes-sprtie-png-ryab_97
+    21300196: nes-sprtie-png-ryab_98
+    21300198: nes-sprtie-png-ryab_99
+    21300200: nes-sprtie-png-ryab_100
+    21300202: nes-sprtie-png-ryab_101
+    21300204: nes-sprtie-png-ryab_102
+    21300206: nes-sprtie-png-ryab_103
+    21300208: nes-sprtie-png-ryab_104
+    21300210: nes-sprtie-png-ryab_105
+    21300212: nes-sprtie-png-ryab_106
+    21300214: nes-sprtie-png-ryab_107
+    21300216: nes-sprtie-png-ryab_108
+    21300218: nes-sprtie-png-ryab_109
+    21300220: nes-sprtie-png-ryab_110
+    21300222: nes-sprtie-png-ryab_111
+    21300224: nes-sprtie-png-ryab_112
+    21300226: nes-sprtie-png-ryab_113
+    21300228: nes-sprtie-png-ryab_114
+    21300230: nes-sprtie-png-ryab_115
+    21300232: nes-sprtie-png-ryab_116
+    21300234: nes-sprtie-png-ryab_117
+    21300236: nes-sprtie-png-ryab_118
+    21300238: nes-sprtie-png-ryab_119
+    21300240: nes-sprtie-png-ryab_120
+    21300242: nes-sprtie-png-ryab_121
+    21300244: nes-sprtie-png-ryab_122
+    21300246: nes-sprtie-png-ryab_123
+    21300248: nes-sprtie-png-ryab_124
+    21300250: nes-sprtie-png-ryab_125
+    21300252: nes-sprtie-png-ryab_126
+    21300254: nes-sprtie-png-ryab_127
+    21300256: nes-sprtie-png-ryab_128
+    21300258: nes-sprtie-png-ryab_129
+    21300260: nes-sprtie-png-ryab_130
+    21300262: nes-sprtie-png-ryab_131
+    21300264: nes-sprtie-png-ryab_132
+    21300266: nes-sprtie-png-ryab_133
+    21300268: nes-sprtie-png-ryab_134
+    21300270: nes-sprtie-png-ryab_135
+    21300272: nes-sprtie-png-ryab_136
+    21300274: nes-sprtie-png-ryab_137
+    21300276: nes-sprtie-png-ryab_138
+    21300278: nes-sprtie-png-ryab_139
+    21300280: nes-sprtie-png-ryab_140
+    21300282: nes-sprtie-png-ryab_141
+    21300284: nes-sprtie-png-ryab_142
+    21300286: nes-sprtie-png-ryab_143
+    21300288: nes-sprtie-png-ryab_144
+    21300290: nes-sprtie-png-ryab_145
+    21300292: nes-sprtie-png-ryab_146
+    21300294: nes-sprtie-png-ryab_147
+    21300296: nes-sprtie-png-ryab_148
+    21300298: nes-sprtie-png-ryab_149
+    21300300: nes-sprtie-png-ryab_150
+    21300302: nes-sprtie-png-ryab_151
+    21300304: nes-sprtie-png-ryab_152
+    21300306: nes-sprtie-png-ryab_153
+    21300308: nes-sprtie-png-ryab_154
+    21300310: nes-sprtie-png-ryab_155
+    21300312: nes-sprtie-png-ryab_156
+    21300314: nes-sprtie-png-ryab_157
+    21300316: nes-sprtie-png-ryab_158
+    21300318: nes-sprtie-png-ryab_159
+    21300320: nes-sprtie-png-ryab_160
+    21300322: nes-sprtie-png-ryab_161
+    21300324: nes-sprtie-png-ryab_162
+    21300326: nes-sprtie-png-ryab_163
+    21300328: nes-sprtie-png-ryab_164
+    21300330: nes-sprtie-png-ryab_165
+    21300332: nes-sprtie-png-ryab_166
+    21300334: nes-sprtie-png-ryab_167
+    21300336: nes-sprtie-png-ryab_168
+    21300338: nes-sprtie-png-ryab_169
+    21300340: nes-sprtie-png-ryab_170
+    21300342: nes-sprtie-png-ryab_171
+    21300344: nes-sprtie-png-ryab_172
+    21300346: nes-sprtie-png-ryab_173
+    21300348: nes-sprtie-png-ryab_174
+    21300350: nes-sprtie-png-ryab_175
+    21300352: nes-sprtie-png-ryab_178
+    21300354: nes-sprtie-png-ryab_179
+    21300356: nes-sprtie-png-ryab_180
+    21300358: nes-sprtie-png-ryab_181
+    21300360: nes-sprtie-png-ryab_182
+    21300362: nes-sprtie-png-ryab_183
+    21300364: nes-sprtie-png-ryab_184
+    21300366: nes-sprtie-png-ryab_185
+    21300368: nes-sprtie-png-ryab_186
+    21300370: nes-sprtie-png-ryab_187
+    21300372: nes-sprtie-png-ryab_188
+    21300374: nes-sprtie-png-ryab_189
+    21300376: nes-sprtie-png-ryab_190
+    21300378: nes-sprtie-png-ryab_191
+    21300380: nes-sprtie-png-ryab_192
+    21300382: nes-sprtie-png-ryab_193
+    21300384: nes-sprtie-png-ryab_194
+    21300386: nes-sprtie-png-ryab_195
+    21300388: nes-sprtie-png-ryab_196
+    21300390: nes-sprtie-png-ryab_197
+    21300392: nes-sprtie-png-ryab_198
+    21300394: nes-sprtie-png-ryab_199
+    21300396: nes-sprtie-png-ryab_200
+    21300398: nes-sprtie-png-ryab_201
+    21300400: nes-sprtie-png-ryab_202
+    21300402: nes-sprtie-png-ryab_203
+    21300404: nes-sprtie-png-ryab_204
+    21300406: nes-sprtie-png-ryab_205
+    21300408: nes-sprtie-png-ryab_206
+    21300410: nes-sprtie-png-ryab_207
+    21300412: nes-sprtie-png-ryab_208
+    21300414: nes-sprtie-png-ryab_209
+    21300416: nes-sprtie-png-ryab_210
+    21300418: nes-sprtie-png-ryab_211
+    21300420: nes-sprtie-png-ryab_176
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 610
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d1b70ae6a3d8e4298f30c9231ebdaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 610
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f50f7b9d9e883a4ea8456867351a3ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 610
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab46aed7dbdfdb4abad1089bb108813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 610
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3c8b8551c0f5408d15add545ee9b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 610
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5370f758596769444b363b81e31ec351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 610
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99847837fb9b24799101e909d197a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 610
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afdf4497cd693f4c87c5249ea922e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 610
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118a2f9ab8da1e4e84b2c9c796d95ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 610
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f3d4b0577525f4889fafd201c5d24f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 610
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2da899fb0845e24e854b3d674675c05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 610
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750ac9884f9ae2842a9be142a244cb3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 569
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15ded252e172df4ba77b29b897bd245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 569
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb7c196042528749a3ba9db58aeaaee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 569
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174e3f4beef9f444a2dbe4dd09e76aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 569
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a791630c6176cd42917b11ea869b7dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 569
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2577700361779df408be38561d4bf109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 569
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330aaa1e1197354382866143e4a3ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 569
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4cac889954aa14bbf6cf35e8731af5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 569
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78555158e2e3fbd48a209919463d8fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 535
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7437f6c58e5284d9b73fa721c0ea6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 569
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad994f54b2af6c34f8a1f47e4fa8b045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 569
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a709a0f3953ae754082368ba449ee221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e651dac1dcef324a9eb74c8280a42cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85290d13a53cc3c4aabca1b587d90c7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8921adf2a7464b9fd2fa275cc2a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd54d3bbca83e31438314605a5e34e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45345804df4a5564ab8f4da2dba7e853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4634faa7704bbe429d0f6de9e5e728a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd26fda5a8138c48a44c3d32cf49704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e4980907eea743847feabb5d5015f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c544c40c91937242bf39fb0e60eab9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df008e9ffa29f84c8c4ae9db4ba80c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50501262e3181a42be92e60caf4ec3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 501
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2527defff00089847abc593be957af93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 513
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cf8c77db68fa34dab1673adbd9eea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f014678af50361438b68c1ce6460a3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098518f9b30a928409d0b8e63977d6ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a080f7ac6ef434bb0a41cc9e6eb725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33494d65d3299384cb424f3a25b80dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ef2f4c79fcf514c831008e9117eb41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4738e956883b4898eb4c7b6ab267d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369d0e53557f2bc489dad5a54db98364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705e28f531e2424d95ad0e957a6d146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_43
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04278752d708aef4d8e5ad5eddd14241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631c6d9afbf62c41afe22ec6c774cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287de8388f64c448a8ece64a36bcf2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34d55e0f22244b4799f59d340acd4a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f6293c005bfcb4786758a4b2c37e2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c27751fb75d244a95474cf4d6a2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_49
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1bd361fc124704aa9c9b7b837ea610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ba742085b0884298e98c8dcfc76df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0069f208c4c765e43b77d96ba892b0c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf200e36665ace649a1fd65be0c07fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe433d854c57014c8be7ac8fc921fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e8c72667798b4dbae84a40b59a403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466b720f1fc0094a9d5ff1f25449399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa4750c368067449ab9538a36cd8011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c924576121234da8974159a337fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a982b012a52cf49b16e782edd87de6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e7d1f1adbf6741b2adba87ee19f2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d75dc9b7d55f4b814986d75009b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_61
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d10b6c8141a1a46beff084af55d40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c98580a82a01c489ee54e21232d704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376799f148a004c4a9d20595623fbc24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d1cfb1034367418880837fe5b609a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_65
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e4da467d3f6194ab8902b5d7fdddc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341f3204f10c46f4e81900fc7112ee3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154d40bf231a2d1499e3d4026d346591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_68
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694369557e97e3048921815914459810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f5aa85e35fe01499affcb95624d977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_70
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ac1b97a23e124ba6ef6f12eba1cc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbff6d0bb7ef75449029d223c05e081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30a8a98614d56448721087687d9161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8481c0b8f50f468a473046ab3a62d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068eb3864c8677b448d31990b6e7fd3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_75
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7eff81f2fdd2c4ab68a9b0cc035c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8f61671f8bff940816bcf32b70a92c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_77
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e865058b42d74a938a79780dcc0c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d5adf8a48a2e468fff5ac7e9af395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd262e47aa616d64da37baae30e3df7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e39c2ce9f3e604e9fb559a1572aa24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cac9cb258607946aa87c3d54f3b6c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b58f8e1adf8640ad954af2e0522e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd7797199dfaf948828de72ba852dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db4a3c6ee1719447988b61b58036cc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f51e40a3e6522f45afc0c344b3544a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df17f70ff6b7e84ca269ed0f9d34521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ffc48739d62848bd4879721103ed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_88
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7dd9ca3c82427458ef2c8c8d79dd75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_89
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18145c4c09fd404fa734ab3c4d06648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_90
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f986b2710d00c4c90555c6f8360caa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce42d35debf2d1d4b8b57324114d20a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 295
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40366409b205c694fbaa97c6367ae44e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_93
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 295
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a336b06cdf14fd4cb2cc2c565830c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a770cda31161dd46aae64498b9e4d82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d20f424ab8692a489d0cebb67baf596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_96
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a09f36408031aa45ba61f24d42ae2a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_97
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 292
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a381028af5d9b498ef8eadf02ec025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd0b0d2e95debd43b91e3ff1da78c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8486bb18d77e84c8a822e33ca14309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1b8383994e0a4ba001f04daa1c0ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_101
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9197b0cb73c35e14a852d11d122ca6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_102
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16bf757b89926d4793fc6979582ab15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_103
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bbda73f99490b4ba94b711a25025b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_104
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8c0bf335be5549b2edcbf65c01248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_105
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425030d92d8d68d44a7d2478451c54d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5169f9d7632983143ac8904f3e74cc88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_107
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7958eadecc23c3642b9abe901e82829b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_108
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb5392b02e694a4bbafdb46d82084e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_109
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632b3c34e991f3341ab7328b32d59062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6980641ca7609b243aced579b558cfac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde111a71e285d40ade94a4a7ba4517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_112
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d81090486970469ed687edcda2cfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_113
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47fd677955aa9a46bc88794613ab42a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_114
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec3003f1be32e44b6080bf261fa9d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_115
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b4fd94506fed94aa9d3aa8dfc7c45a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_116
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8676f9fb2a248204a9cb92c1df98abbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8267c5e7bb3a3954ab6ae3bd86a0e84f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_118
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00740fd0fe1aa144a47b426f0d3802e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_119
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab446069b833c7940ba8ecdf6ddc0221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_120
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e89f9425668bc4dab61a09b8e93f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_121
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5056861d37a34998bb6a9e77451c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_122
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 229
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a4398c870435498f1d6b9ba2e3602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 229
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb8699550df344a8d5f917ec3a375c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_124
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 229
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd76c5ce4bc0ac439026769eb48450a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_125
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d51e143a8df3b45be09e9981a2052c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 202
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581fbb3985ad16245ac2867689a95dcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_127
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 202
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789b7c2472f2f146bfed987ce5a8178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_128
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 202
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccd0695d7fcb5b48a6199ccb1deea8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_129
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 202
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70003ea505945724aa1ebb60f5a18471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_130
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 202
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f91d9464d677a9498c55bc6b629ad76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 202
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0690c43f5adc44db4b26e6b449763d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_132
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 202
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af24bd8fc12ae643b94a9e251051f1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_133
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 202
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e85213e6b4ea94dbeb74307e8aa1bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_134
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 202
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc977befe48864d49ab8aab27d8addf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_135
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 202
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b751b8c441e75f4ea202010ce9d9f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 202
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f0e32b2197c654fad4556c771de59d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_137
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 186
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0234d1580f6142a9c6d1ec8fd64a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 186
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efb8dbd815caae4bb0858213287d96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_139
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 186
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe9cc0b4052364c8a7a57bd2a8e73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_140
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 190
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7846a9e6444298e4e9d6fc56d12e606a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_141
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 188
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca22172f88daf3941a624aeedba3ad1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_142
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 186
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2c33eb4dc735489a690ecdb596ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_143
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b9839a44a0ee4ca4c4cf18a4a9249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e648027421d14aaadb6a9b72d7fba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_145
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 138
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2c74c1655c3944a64c41dfb5b19e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 138
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7a40f0cac2f24b8419e9d97278314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 138
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82a2984af63c8a45889220ab6ca3d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_148
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 153
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71341b7f24ba5d49b1fdb72bf6f3cb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_149
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 138
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c7812844565be43a194d873dcb310c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_150
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 138
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712b6c6aa0dd08940ac0bd90aa7eb9cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_151
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250be3fab81b0c4c97451520d861240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_152
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 138
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07971c0fce18e214cb4481009ea994f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_153
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 138
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6630082fcbf5a24784f4e11c054b2f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_154
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 138
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faac391a679cb294a8babf2ad7c1a122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_155
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 153
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda1708bc92f9434aaa96b1153d48136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_156
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 142
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824270bc1d3ed9a4093ea0bd8369a751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_157
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 140
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e2c879443d9b74ebb531d450f2de57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_158
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 141
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3cbac7d556454d9859e43c04ae752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_159
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 143
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8869c3ed4934b049a6778738367550a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_160
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c29b2d6be44ef748b0bbcbcd97ab8e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_161
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 138
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c1b6f8c2a090240a4ac0ea26d2da65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_162
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 138
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbbf3d4e4b6a3a49a3459b2673d53e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_163
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 138
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5162738b204ca418b65f15a14203d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_164
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 138
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb3a07866fd0744921b710df373f8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe3f657dd9e6248a6e51d078d4117e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_166
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38717908656eb0b4dbb4dfe98df283de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_167
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 104
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e7a03cbe120a4fbbb200b6aae5a8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c761edd79973ec044a420b7b1e9125af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_169
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c5ccc9fac48864f9e33fa96621b203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_170
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5434807d3401b448918a725a5681f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_171
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 104
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3ff6dd0bedff54c9429a71454f1066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_172
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 104
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083f690784e4704dbdf29b1e7c097ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_173
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 104
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d48df1b753e2e459bd0629566ca652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_174
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0c565f8fc8d94a8d12b78c69d355d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d05834355a584ba6b96102a3ddea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_178
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 108
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5001732, y: -4.000155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa56b57ea9c7d247b5e64df5836c58e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_179
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6c9c6d850338240a538f2ee6c919c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_180
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 70
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bfdca36a781ec43b4066c0b50f4d7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_181
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 70
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c470170546827a479ca8d8513dcf396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_182
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 70
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a651aaec88ecb24b8a9cfb089b0f014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_183
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c0e9d5029fd74ca8d94e64247c4ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a2f66ce8bfe5a4b836ddd9847c5878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_185
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f43d5e263aabe4a95dab7d05f5c1c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_186
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ca2e4a9ef988b4aa904db6a622e99e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_187
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa51005202853fb45aa3aca3a0553b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_188
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5709db76c2055624d98c21b2f6d46fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_189
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711df6f5054bf8948a6352ec00430775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_190
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53918ec73815cd146b45530c3326fd3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_191
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 36
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12113393748c4c64f9e03ed38f653ea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_192
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 39
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8cc2eaeba6504b8662067996019af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_193
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 36
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd106a55031c1ca4084bfde54c497c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_194
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ae592ee12d03246a437d2f4fd5ab4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_195
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0022ccaefa2aefa4ca8202f64c839f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_196
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 20
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56f6c0e93814af439e6670d0227667b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_197
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 20
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78aaea39fce83846a2081676c8f4b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_198
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e26b431c82c0849b3fd7677b6fc66a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_199
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fa3738106acc14c9ecc51be20ac336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_200
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67d30eb741bfc9469bd8dc852bad11c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_201
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbaea35b95998b4fa6f54b66c87e337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b5e521d9418f44bb61ab335aa8311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_203
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 20
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2824ec3d17af4caa9ffe9121d1e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_204
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 20
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2ace2d085683f408d5475e2dcaa5e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_205
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 9
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb394775cac9f45b535d48762d15ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_206
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239b82667dad59e48852c870db530087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_207
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c3155c1cd31794a9ebbc73eb39a378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_208
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9d6b3b4cef60e4d9d7870d164ab8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_209
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ac51d9ce8a2f40af4a6df933c5692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_210
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d97ea53e10a3374db46cffb4817c626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_211
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa9451c1665f14cb7a4733b5891fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nes-sprtie-png-ryab_176
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 108
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.50066316, y: -4.000078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150808dd76bd82841a9d7d60582132e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd64be8bcc003154a89430744515a695
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
